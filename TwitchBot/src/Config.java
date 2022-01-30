@@ -1,7 +1,7 @@
 
 public class Config {
 	public static String currentGame="Rocket League";
-	private static final String OAUTH="oauth:3n9qfnwluh2tzl78cuhvepgahpttzv";
+	private static final String OAUTH="oauth:";
 	private static final String CHANNEL="#pyrocat12";
 	private static final int PORT=6667;
 	private static final String ADDRESS="irc.twitch.tv";
